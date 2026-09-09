@@ -21,7 +21,7 @@ The data was **intentionally seeded with real-world data quality issues** to dem
 
 ![Overview](screenshots/01_Overview.png)
 
-The dashboard has 3 pages: **Overview** (KPIs and top-level breakdowns), **Sales Performance Analysis** (categories, channels, reps, and the monthly/quarterly trend), and **Geographical Sales Analysis** (city-level performance).
+The dashboard has 3 pages: **Overview** (KPIs and Category breakdown), **Sales Performance Analysis** (channels, reps, and the monthly/quarterly trend), and **Geographical Sales Analysis** (city-level performance).
 
 ## 🔑 Key Findings
 
